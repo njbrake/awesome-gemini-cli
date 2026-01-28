@@ -103,7 +103,7 @@ Playful and creative tools inspired by or that add personality to Gemini CLI.
 ## Development Tools & Utilities
 
 Tools that enhance your development workflow when using Gemini CLI.
-
+- [**Agent of Empires (AoE)**](https://github.com/njbrake/agent-of-empires) - A terminal UI for managing multiple Gemini CLI sessions in tmux with git worktree integration and Docker sandboxing. 
 - [vsync](https://github.com/nicepkg/vsync) - Sync Skills, MCP servers, Agents & Commands across Claude Code, Cursor, OpenCode, Codex, and Gemini CLI with automatic format conversion (JSON ↔ TOML ↔ JSONC).
 - [**Gemini Dockerized CLI**](https://github.com/nordluf/gemini-dockerized-cli) - Gemini Dockerized CLI with small improvements.
 - [IssueDB](https://issue-queue.readthedocs.io/en/latest/llm_agents.html) - LLM frendly command-line issue tracking system for software development projects, with built-in interface, context support and prompt providers for Gemini CLI and others.
